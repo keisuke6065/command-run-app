@@ -17,7 +17,7 @@
     "child_process": "^1.0.2",
     "css-loader": "0.28.7",
     "dotenv": "4.0.0",
-    "electron": "^1.7.9",
+    "electron": "^18.3.7",
     "eslint": "4.10.0",
     "eslint-config-react-app": "^2.0.1",
     "eslint-loader": "1.9.0",
